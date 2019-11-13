@@ -47,7 +47,7 @@ class helper{
                 $data=Array(
                     'status'=>'success',
                     'code'=>$code,
-                    'msg'=>'Accion realizada de forma exitosa.',
+                    'msg'=>'Operación exitosa.',
                     'data'=>$data,
                     'cache'=>$cache,
                     'line'=>$line
